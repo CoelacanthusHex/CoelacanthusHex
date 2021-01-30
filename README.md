@@ -12,8 +12,8 @@ Here is CoelacanthusHex.
 - :pencil2: Arch Linux / Firefox / KDE / Yakuake / Weechat / ZShell / KMail
 - :video_game: Minecraft (ID: CoelacanthusHex), Terraria ([Steam](https://steamcommunity.com/id/coelacanthus/))
 - :computer: Lenovo LEGION Y7000 GTX1050Ti 2018 Edition with my Intel AX210
-- :telephone_receiver: QQ: [1470511433](https://wpa.qq.com/msgrd?v=3&uin=1470511433), Mastodon: [CoelacanthusHex](https://hub.mtf.party/@coelacanthus)
-- :email: coelacanthus@outlook.com
+- :telephone_receiver: [![Call me via QQ](https://img.shields.io/static/v1?label=QQ&message=1470511433&color=blue&style=flat-square)](https://wpa.qq.com/msgrd?v=3&uin=1470511433), [![Call me via Mastodon](https://img.shields.io/static/v1?label=Mastodon&message=coelacanthus@hub.mtf.party&color=blue&style=flat-square)](https://hub.mtf.party/@coelacanthus)
+- :email: [![Send me Email](https://img.shields.io/static/v1?label=email&message=coelacanthus@outlook.com&color=blue&style=flat-square)](mailto:coelacanthus@outlook.com)
 - :memo: My Blog: [倚窗，听雨](https://blog.coelacanthus.moe/)
 - :key: [GPG Key](https://github.com/CoelacanthusHex/pub-key)
 

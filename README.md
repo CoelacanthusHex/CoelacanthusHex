@@ -4,7 +4,7 @@
 
 Here is CoelacanthusHex.
 
-You can call me Celeste Liu.
+You can call me Celeste.
 
 - :hammer_and_pick: C / C++ / Qt / Rust
 - :adult: MtF(Transgender Woman) / INFP / [OIer](https://zh.wikipedia.org/zh/Category:OIer)

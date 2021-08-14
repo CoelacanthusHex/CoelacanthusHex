@@ -19,5 +19,6 @@ You can call me Celeste.
 - :email: [![Send me Email](https://img.shields.io/static/v1?label=email&message=coelacanthus@outlook.com&color=blue&style=flat-square)](mailto:coelacanthus@outlook.com)
 - :memo: My Blog: [倚窗，听雨](https://blog.coelacanthus.moe/)
 - :key: [![PGP Key](https://img.shields.io/static/v1?label=PGP&message=0x15F4180E73787863&color=blue&style=flat-square)](https://keys.openpgp.org/search?q=892EBC7DC392DFF9C9C03F1D15F4180E73787863)
+- :train: [![Keybase](https://img.shields.io/static/v1?label=Keybase&message=coelacanthus&color=blue&style=flat-square)](https://keybase.io/coelacanthus)
 
 

@@ -18,7 +18,8 @@ You can call me Celeste.
 - :telephone_receiver: [![Call me via QQ](https://img.shields.io/static/v1?label=QQ&message=1470511433&color=blue&style=flat-square)](https://wpa.qq.com/msgrd?v=3&uin=1470511433), [![Call me via Mastodon](https://img.shields.io/static/v1?label=Mastodon&message=coelacanthus@hub.mtf.party&color=blue&style=flat-square)](https://hub.mtf.party/@coelacanthus)
 - :email: [![Send me Email](https://img.shields.io/static/v1?label=email&message=coelacanthus@outlook.com&color=blue&style=flat-square)](mailto:coelacanthus@outlook.com)
 - :memo: My Blog: [倚窗，听雨](https://blog.coelacanthus.moe/)
-- :key: [![PGP Key](https://img.shields.io/static/v1?label=PGP&message=0x15F4180E73787863&color=blue&style=flat-square)](https://keys.openpgp.org/search?q=892EBC7DC392DFF9C9C03F1D15F4180E73787863)
+- :key: [![PGP Key](https://img.shields.io/static/v1?label=PGP&message=0x15F4180E73787863&color=blue&style=flat-square)](https://keys.openpgp.org/search?q=892EBC7DC392DFF9C9C03F1D15F4180E73787863) [PGP Sign Policy](https://pgp.coelacanthus.moe/pgp-policy.en.html)
 - :train: [![Keybase](https://img.shields.io/static/v1?label=Keybase&message=coelacanthus&color=blue&style=flat-square)](https://keybase.io/coelacanthus)
+- :crystal_ball: GitLab https://gitlab.com/CoelacanthusHex
 
 

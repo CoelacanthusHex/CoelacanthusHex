@@ -7,9 +7,9 @@ Here is CoelacanthusHex.
 You can call me Celeste.
 
 - :hammer_and_pick: C / C++ / Qt / Rust
-- :adult: MtF(Transgender Woman) / INFP / [OIer](https://zh.wikipedia.org/zh/Category:OIer)
+- :woman: MtF(Transgender Woman) / INFP / [OIer](https://zh.wikipedia.org/zh/Category:OIer)
 - :keyboard: Arch Linux User / [OI Wiki](https://github.com/OI-wiki/OI-wiki) Editor
-- :adult: Pronouns: she / her / they
+- :woman: Pronouns: she / her / they
 - :package: Working on [Project LemonLime](https://github.com/Project-LemonLime/Project_LemonLime) and so on
 - :video_game: Minecraft (ID: CoelacanthusHex), Terraria ([Steam](https://steamcommunity.com/id/coelacanthus/))
 - :computer: Arch Linux

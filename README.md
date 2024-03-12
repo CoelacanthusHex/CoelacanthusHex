@@ -13,7 +13,7 @@ You can call me Celeste.
 - :package: Working on [Project LemonLime](https://github.com/Project-LemonLime/Project_LemonLime) and so on
 - :video_game: Minecraft (ID: CoelacanthusHex), Terraria ([Steam](https://steamcommunity.com/id/coelacanthus/))
 - :computer: Arch Linux
-- :telephone_receiver: [![Call me via Mastodon](https://img.shields.io/static/v1?label=Mastodon&message=Coelacanthus@mastodon.social&color=blue&style=flat-square)](https://mastodon.yuuta.moe/@Coelacanthus)
+- :telephone_receiver: [![Call me via Mastodon](https://img.shields.io/static/v1?label=Mastodon&message=Coelacanthus@mastodon.yuuta.moe&color=blue&style=flat-square)](https://mastodon.yuuta.moe/@Coelacanthus)
 - :email: [![Send me Email](https://img.shields.io/static/v1?label=email&message=CoelacanthusHex@gmail.com&color=blue&style=flat-square)](mailto:CoelacanthusHex@gmail.com)
 - :memo: My Blog: [倚窗，听雨](https://blog.coelacanthus.moe/)
 - :key: [![PGP Key](https://img.shields.io/static/v1?label=PGP&message=0x15F4180E73787863&color=blue&style=flat-square)](https://keyserver.ubuntu.com/pks/lookup?search=892EBC7DC392DFF9C9C03F1D15F4180E73787863&fingerprint=on&op=index)
